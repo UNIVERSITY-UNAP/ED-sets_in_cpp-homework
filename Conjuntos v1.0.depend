@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1609441154 source:d:\control_archivos\documentos\c++\clases\mates discretas\ed-sets_in_cpp-homework\main.cpp
+	<iostream>
+	"Conjunto.h"
+
+1609441154 d:\control_archivos\documentos\c++\clases\mates discretas\ed-sets_in_cpp-homework\conjunto.h
+	"Element.h"
+
+1609441154 d:\control_archivos\documentos\c++\clases\mates discretas\ed-sets_in_cpp-homework\element.h
+
