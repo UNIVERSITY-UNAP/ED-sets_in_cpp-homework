@@ -1,4 +1,4 @@
-#include "Elemento.h"
+#include "Element.h"
 class Conjunto {
 	Element *princ;
 	Conjunto *subc;
@@ -207,4 +207,4 @@ public:
 		Push(a);
 		return *this;
 	}
-};=
+};
