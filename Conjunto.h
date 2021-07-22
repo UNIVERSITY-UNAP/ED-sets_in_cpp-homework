@@ -2,7 +2,7 @@
 class Conjunto {
 	Element *princ;
 	Conjunto *subc;
-	staitc Conjunto *vacio;
+	static Conjunto *vacio;
 public:
 	Conjunto() {
 		princ = NULL;
